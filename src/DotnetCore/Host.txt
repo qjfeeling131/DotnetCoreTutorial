@@ -1,0 +1,46 @@
+﻿
+IWebHostBuilder:
+
+使用应用的托管配置提供程序将 Kestrel 服务器配置为 Web 服务器。 有关 Kestrel 服务器的默认选项
+将内容根目录设置为由 Directory.GetCurrentDirectory 返回的路径。
+通过以下对象加载主机配置：
+前缀为 ASPNETCORE_ 的环境变量（例如，ASPNETCORE_ENVIRONMENT）。
+命令行参数。
+按以下顺序加载应用配置：
+appsettings.json.
+appsettings.{Environment}.json。
+应用在使用入口程序集的 Development 环境中运行时的用户机密。
+环境变量。
+命令行参数。
+配置控制台和调试输出的日志记录。 日志记录包含 appsettings.json 或 appsettings.{Environment}.json 文件的日志记录配置部分中指定的日志筛选规则。
+使用 ASP.NET Core 模块在 IIS 后面运行时，CreateDefaultBuilder 会启用 IIS 集成，这会配置应用的基址和端口。 IIS 集成还配置应用以捕获启动错误.
+
+
+
+IHostBuilder:
+
+CreateDefaultBuilder 方法：
+
+将内容根目录设置为由 GetCurrentDirectory 返回的路径。
+通过以下项加载主机配置：
+前缀为 DOTNET_ 的环境变量。
+命令行参数。
+通过以下对象加载应用配置：
+appsettings.json.
+appsettings.{Environment}.json。
+应用在 Development 环境中运行时的用户机密。
+环境变量。
+命令行参数。
+添加以下日志记录提供程序：
+控制台
+调试
+EventSource
+EventLog（仅当在 Windows 上运行时）
+
+
+ConfigureWebHostDefaults 方法：
+从前缀为 ASPNETCORE_ 的环境变量加载主机配置。
+使用应用的托管配置提供程序将 Kestrel 服务器设置为 web 服务器并对其进行配置
+添加主机筛选中间件。
+如果 ASPNETCORE_FORWARDEDHEADERS_ENABLED 等于 true，则添加转接头中间件。
+支持 IIS 集成

@@ -1,0 +1,16 @@
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.csprojAssemblyReference.cache
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.AssemblyInfoInputs.cache
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.AssemblyInfo.cs
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.csproj.CoreCompileInputs.cache
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\Worker-1.exe
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\Worker-1.deps.json
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\Worker-1.runtimeconfig.json
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\Worker-1.runtimeconfig.dev.json
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\Worker-1.dll
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\Worker-1.pdb
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.csproj.CopyComplete
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.dll
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.pdb
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\Worker-1\obj\Debug\netcoreapp3.1\Worker-1.genruntimeconfig.cache

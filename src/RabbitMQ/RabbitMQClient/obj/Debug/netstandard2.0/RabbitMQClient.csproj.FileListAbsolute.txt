@@ -1,0 +1,9 @@
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\bin\Debug\netstandard2.0\RabbitMQClient.deps.json
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\bin\Debug\netstandard2.0\RabbitMQClient.dll
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\bin\Debug\netstandard2.0\RabbitMQClient.pdb
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\obj\Debug\netstandard2.0\RabbitMQClient.csprojAssemblyReference.cache
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\obj\Debug\netstandard2.0\RabbitMQClient.AssemblyInfoInputs.cache
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\obj\Debug\netstandard2.0\RabbitMQClient.AssemblyInfo.cs
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\obj\Debug\netstandard2.0\RabbitMQClient.csproj.CoreCompileInputs.cache
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\obj\Debug\netstandard2.0\RabbitMQClient.dll
+C:\Users\Pari_Zhong\workplace\project\private repository\DotnetCoreTutorial\src\RabbitMQ\RabbitMQClient\obj\Debug\netstandard2.0\RabbitMQClient.pdb

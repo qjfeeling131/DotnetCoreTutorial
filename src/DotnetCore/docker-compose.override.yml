@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  mysql.data:
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+    ports:
+      - "9400:3306"    
+      
+  dotnettutorial.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+

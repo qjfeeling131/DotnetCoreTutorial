@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  mysql.data:
+    image: mysql:latest
+
+  dotnettutorial.api:
+    image: dotnettutorialapi:${TAG:-latest}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - mysql.data
+
